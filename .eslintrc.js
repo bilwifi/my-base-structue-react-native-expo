@@ -17,11 +17,10 @@ module.exports = {
           _scenes: './src/scenes',
           _services: './src/services',
           _redux: './src/redux',
-          _styles: './src/styles',
           _utils: './src/utils',
           _constants: './src/constants',
           _helpers: "./src/helpers",
-          _constants: "./src/utils/constants",
+          _constants: "./src/constants",
 
         },
       },
