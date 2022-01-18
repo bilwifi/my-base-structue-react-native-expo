@@ -10,6 +10,39 @@ npm install --save-dev eslint-import-resolver-babel-module eslint-plugin-import 
 
 ```
 
+## Structure du répertoire
+Voici une vue d'ensemble de haut niveau des fichiers et dossiers pertinents.
+```
+root/
+├── android/
+├── assets/
+├── ios/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── atoms/
+│   │   ├── molecules/
+│   │   └── organisms/
+│   ├── constants/
+│   ├── helpers/
+│   ├── navigations/
+│   ├── redux/
+│   ├── scenes/
+│   ├── services/
+│   ├── utils/
+├── .babelrc
+├── .eslintrc.js
+├── .firebaserc
+├── .gitignore
+├── .versionrc.json
+├── App.js
+├── CHANGELOG.md
+├── babel.config.js
+├── environnement.exemple.js
+├── package.json
+```
+
 ## **Tech Stack**
 #### Backend
 - Nodejs
