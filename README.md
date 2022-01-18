@@ -20,6 +20,8 @@ root/
 ├── public/
 ├── src/
 │   ├── assets/
+│   │  ├── fonts
+│   │  ├── images
 │   ├── components/
 │   │   ├── atoms/
 │   │   ├── molecules/
@@ -27,8 +29,17 @@ root/
 │   ├── constants/
 │   ├── helpers/
 │   ├── navigations/
+│   │  ├── index.js            // RootNavigator
+│   │  ├── auth-navigator.js   // AuthNavigator
+│   │  ├── app-navigator.js 
 │   ├── redux/
 │   ├── scenes/
+│   │  ├── login
+│   │  │	 ├── index.jsx // LoginScreen
+│   │  ├── home
+│   │  │	 ├── index.jsx // HomeScreen
+│   │  ├── about
+│   │  │	 ├── index.jsx // AboutScreen
 │   ├── services/
 │   ├── utils/
 ├── .babelrc
@@ -41,6 +52,8 @@ root/
 ├── babel.config.js
 ├── environnement.exemple.js
 ├── package.json
+
+
 ```
 
 ## **Credit**
