@@ -43,15 +43,6 @@ root/
 ├── package.json
 ```
 
-## **Tech Stack**
-#### Backend
-- Nodejs
-- Express
-- Mongoss
-
-#### Frontend
-- React js
-- MapBox
 ## **Credit**
 cheesecakelabs.com [efficient-way-structure-react-native-projects](https://cheesecakelabs.com/blog/efficient-way-structure-react-native-projects/)
 
