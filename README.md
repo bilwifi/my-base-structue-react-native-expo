@@ -29,18 +29,20 @@ root/
 │   ├── constants/
 │   ├── helpers/
 │   ├── navigations/
-│   │  ├── index.js            // RootNavigator
-│   │  ├── auth-navigator.js   // AuthNavigator
+│   │  ├── index.js           
+│   │  ├── auth-navigator.js   
 │   │  ├── app-navigator.js 
 │   ├── redux/
 │   ├── scenes/
-│   │  ├── login
-│   │  │	 ├── index.jsx // LoginScreen
-│   │  ├── home
-│   │  │	 ├── index.jsx // HomeScreen
-│   │  ├── about
-│   │  │	 ├── index.jsx // AboutScreen
+│   │  ├── login/
+│   │  │	 ├── index.jsx 
+│   │  ├── home/
+│   │  │	 ├── index.jsx 
+│   │  ├── about/
+│   │  │	 ├── index.jsx 
 │   ├── services/
+│   │  ├── api/
+│   │  ├── firebase/
 │   ├── utils/
 ├── .babelrc
 ├── .eslintrc.js
