@@ -18,11 +18,10 @@
           "_scenes": "./src/scenes",
           "_services": "./src/services",
           "_api": "./src/services/api",
-          "_styles": "./src/styles",
           "_utils": "./src/utils",
           "_helpers": "./src/helpers",
           "_redux": "./src/redux",
-          "_constants": "./src/utils/constants"
+          "_constants": "./src/constants"
         }
       }
     ]
