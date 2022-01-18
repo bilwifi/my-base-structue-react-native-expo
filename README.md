@@ -35,11 +35,11 @@ root/
 │   ├── redux/
 │   ├── scenes/
 │   │  ├── login/
-│   │  │	 ├── index.jsx 
+│   │  │  ├── index.jsx 
 │   │  ├── home/
-│   │  │	 ├── index.jsx 
+│   │  │	├── index.jsx 
 │   │  ├── about/
-│   │  │	 ├── index.jsx 
+│   │  │	├── index.jsx 
 │   ├── services/
 │   │  ├── api/
 │   │  ├── firebase/
